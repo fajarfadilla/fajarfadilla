@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@djafaaarr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/djafaaarr)](https://www.instagram.com/djafaaarr)
 [![Gmail Badge](https://img.shields.io/badge/-fajarfadilla-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fajarfadillaa@gmail.com)](mailto:fajarfadillaa@gmail.com)
 
-I'm Rizky, Web developer from  Jakarta, Indonesia
+I'm Rizky, from  Jakarta, Indonesia
 
 ```python
 technology = {
