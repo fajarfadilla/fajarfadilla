@@ -7,14 +7,7 @@
 
 I'm Rizky, from  Jakarta, Indonesia
 
-```python
-technology = {
-  "code": ["javascript", "python", "html", "css"],
-  "tools": ["React", "Redux", "Node", "Jest", "Docker", "Git", "django"],
-  "Learning": "Typescript"
-}
 
-```
 
 
 <!--
